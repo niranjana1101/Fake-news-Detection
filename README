@@ -1,0 +1,14 @@
+The system predicts the Fake news or mis-information. The dataset is divided
+into training set and testing set and decision tree algorithm is applied. The accuracy is
+calculated,actual and predicted values are compared. To help with the predictions you can draw a 
+line, called a best-fit line that passes close to most of the data points. A heat map is a twodimensional representation of data in which values are represented by colors. A heat map provides
+an immediate visual summary of information. More elaborate heat maps allow the viewer to
+understand complex data sets. Simple linear regression is an approach for predicting a response
+using a single feature. It is one of the most basic machine learning models that a machine learning
+enthusiast get to know about. It is assumed that the two variables are linearly related. Logistic
+regression is one of the most popular Machine Learning algorithms, which comes under the
+Supervised Learning technique. It is used for predicting the categorical dependent variable using a
+given set of independent variables. Random forest classifier is an ensemble tree-based machine
+learning algorithm. The random forest classifier is a set of decision trees from a randomly selected
+subset of the training set. Random forest is a Supervised Machine Learning Algorithm that is used
+widely in Classification and Regression problems. It builds decision trees on different samples.
